@@ -1,0 +1,17 @@
+DuckSmart-Agent/
+├─ README.md
+├─ package.json
+├─ frontend/
+│  ├─ public/
+│  └─ src/
+│      ├─ App.js
+│      ├─ index.js
+│      └─ components/
+│          ├─ ChatInterface.js
+│          └─ DuckTokenPayment.js
+├─ backend/
+│  ├─ server.js
+│  └─ routes/
+│      └─ aiService.js
+├─ contracts/
+└─ DuckSmart.sol
